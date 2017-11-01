@@ -1,0 +1,8 @@
+[I 16:29:34.399 NotebookApp] The port 8888 is already in use, trying another port.
+[I 16:29:34.409 NotebookApp] Serving notebooks from local directory: /home/ec2-user/MLNotebooks
+[I 16:29:34.409 NotebookApp] 0 active kernels
+[I 16:29:34.409 NotebookApp] The Jupyter Notebook is running at:
+[I 16:29:34.409 NotebookApp] https://[all ip addresses on your system]:8889/
+[I 16:29:34.409 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 16:41:38.584 NotebookApp] Interrupted...
+[I 16:41:38.584 NotebookApp] Shutting down 0 kernels
